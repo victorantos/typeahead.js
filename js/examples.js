@@ -103,7 +103,7 @@ $(document).ready(function() {
     display: 'value',
     source: bestPictures
   });
-
+ 
   // default suggestions
   // -------------------
 
